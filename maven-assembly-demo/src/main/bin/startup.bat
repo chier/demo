@@ -1,0 +1,3 @@
+@echo off
+java -Xmx256m -jar lib/assembly-demo-1.0-SNAPSHOT.jar
+echo start...
